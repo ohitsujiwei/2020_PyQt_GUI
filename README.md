@@ -1,6 +1,6 @@
 # 2020_PyQt_GUI
->library/Transmitter  
-<A library to send or receive data via bluetooth based on Arduino and STM32.  
+>Transmitter  
+>>A library to send or receive data via bluetooth based on Arduino and STM32.  
 
 >Regulator  
 A tool that can regulate the parameters of the robot's dynamic balance through Bluetooth.  
